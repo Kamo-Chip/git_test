@@ -1,0 +1,1 @@
+This is Kamo's first git project
